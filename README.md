@@ -1,3 +1,8 @@
+## Credits:
+
+The codebase that I have referred is under https://github.com/thtrieu/darkflow. Thank you to the repo's author!
+
+
 ## Intro
 
 [![Build Status](https://travis-ci.org/thtrieu/darkflow.svg?branch=master)](https://travis-ci.org/thtrieu/darkflow) [![codecov](https://codecov.io/gh/thtrieu/darkflow/branch/master/graph/badge.svg)](https://codecov.io/gh/thtrieu/darkflow)
