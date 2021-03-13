@@ -1,6 +1,6 @@
 ## Credits:
 
-The codebase that I have referred is under https://github.com/thtrieu/darkflow. Thank you to the repo's author!
+The codebase that I have built this repo is under https://github.com/thtrieu/darkflow. Thank you to the original repo's author!
 
 
 ## Intro
